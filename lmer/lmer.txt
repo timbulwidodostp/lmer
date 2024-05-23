@@ -9,7 +9,7 @@ install.packages("tm")
 library("tm")
 library("lme4")
 covRob = read.csv("https://raw.githubusercontent.com/timbulwidodostp/lmer/main/lmer/lmer.csv",sep = ";")
-# Estimate Fit Linear Mixed Effects Models Use lmer Or With (In) R Software
+# Estimate Fit Linear Mixed Effects Models Use lmer With (In) R Software
 lmer<-as.data.frame(as.matrix(lmer))
 lmer = lmer(Denpenden ~ Indenpenden_1 + (1|Indenpenden_2), data = lmer)
 summary(lmer)
