@@ -3,6 +3,8 @@ Fit Linear Mixed Effects Models Use lmer Or With (In) R Software
 
 Fitting Linear Mixed-Effects Models Use lmer With (In) R Software
 
+https://www.youtube.com/watch?v=9Vd0bjuPTdw
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
